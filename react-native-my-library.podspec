@@ -22,6 +22,11 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency "React"
+  s.dependency "dot"
+  s.dependency "Ekyc-ios"
+
+  
+
   # ...
   # s.dependency "..."
 end
